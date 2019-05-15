@@ -1,0 +1,14 @@
+title: My Cool Project
+author: joesancle
+email: joesancle@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am creating this project to learn about GitHub! Hopefully the
+  formatting comes out as I expect.
+
+# social links
+twitter_username: DNE
+github_username:  joesancle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-minimal
